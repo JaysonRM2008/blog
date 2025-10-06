@@ -3,7 +3,7 @@ Welocome to my blog, this is my first blog
 my name is Jayson.
 
 
-<img src="/images/Screenshot 2025-10-06 at 8.56.46 AM.png" alt="My Summer"> 
+<img src="/images/my_summer.png" alt="My Summer"> 
 <br>
 <br>
 
