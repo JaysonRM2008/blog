@@ -1,9 +1,9 @@
 Welocome to my blog, this is my first blog
 
-my name is Jayson.
+my name is Jayson. And this post is about my summer of 2025
 
 
-<img src="/images/my_summer.png" alt="My Summer"> 
+<img src="/images/Beige Aesthetic Elegant Photo Collage Summer Moodboard A4 Document.jpg" alt="My summer"> 
 <br>
 <br>
 

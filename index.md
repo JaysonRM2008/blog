@@ -1,4 +1,4 @@
-Hi my name is jayson and this is my blog
+Hi my name is Jayson and this is my blog
 
 
 <ul>
