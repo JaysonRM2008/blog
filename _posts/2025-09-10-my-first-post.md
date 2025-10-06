@@ -3,7 +3,7 @@ Welocome to my blog, this is my first blog
 my name is Jayson.
 
 
-<img src="blog/images/Screenshot 2025-10-06 at 8.56.46 AM.png" alt="My Summer"> 
+<img src="/images/Screenshot 2025-10-06 at 8.56.46 AM.png" alt="My Summer"> 
 <br>
 <br>
 
@@ -17,4 +17,4 @@ If you collect enough diamonds, you can buy a class that gives you special gear 
 
 Now back to my summer: my parents bought a new car, a 2022 Honda autopilot. They took our old car, a 2008 Honda van, to a junkyard because it was really old. So we have a new car, and my sister got her license. When she has work, she takes me with her in the car because I go to the school where she works.
 
-As I start my senior year, I am happy, nervous and proud that this is my last year of high school, but also a bit sad because I might not see my friends when they move from NYC to go to college. 
+As I start my senior year, I am happy, nervous and proud that this is my last year of high school, but also a bit sad because I might not see my friends when they move from NYC to go to college 😭. 
