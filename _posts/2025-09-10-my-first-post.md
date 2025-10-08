@@ -3,7 +3,7 @@ Welocome to my blog, this is my first blog
 my name is Jayson. And this post is about my summer of 2025
 
 
-<img src="/images/Beige Aesthetic Elegant Photo Collage Summer Moodboard A4 Document.jpg" alt="My summer"> 
+<img src="/blog/images/summer.jpg" alt="My summer"> 
 <br>
 <br>
 
