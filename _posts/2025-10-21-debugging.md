@@ -88,7 +88,7 @@ for num in range(1, n + 1): <br>
 <br>
 
 Snippet 4: 
-<img src="/images/Screenshot 2025-12-02 at 9.08.41 AM.png" alt="code 4"> <br>
+<img src="/blog/images/Screenshot 2025-12-02 at 9.08.41 AM.png" alt="code 4"> <br>
 
 What it was supposed to do: <br>
 Read an integer, refuse negatives, compute the factorial of a nonnegative integer, and print the result. <br>
